@@ -1,0 +1,32 @@
+{
+  "name": "discordchat",
+  "version": "1.0.0",
+  "description": "Discord > TERA > Discord",
+  "main": "discord.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "async-limiter": "^1.0.0",
+    "lodash.toarray": "^4.4.0",
+    "node-emoji": "^1.8.1",
+    "prism-media": "^0.0.2",
+    "long": "^4.0.0",
+    "safe-buffer": "^5.1.1",
+    "tweetnacl": "^1.0.0",
+    "snekfetch": "^3.6.4",
+    "ws": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeagon/Astral-Chat.git"
+  },
+  "author": "Codeagon",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/codeagon/Astral-Chat/issues"
+  },
+  "homepage": "https://github.com/codeagon/Astral-Chat#readme"
+}

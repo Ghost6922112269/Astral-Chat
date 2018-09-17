@@ -1,0 +1,5 @@
+{
+    "servers": ["https://raw.githubusercontent.com/codeagon/Astral-Chat/master/"],
+	"disableAutoUpdate": false,
+    "supportUrl": "https://discord.gg/maqBmJV"
+}
