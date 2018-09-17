@@ -72,7 +72,7 @@ module.exports = function HiWelcomeToMyMinecraftLetsPlayImYourHostHUUUUUUUUUUGEE
     function joinChat() {
         dispatch.toClient('S_JOIN_PRIVATE_CHANNEL', 2, {
             index: config.chatChannel - 1,
-            chatChannel: PRIVATE_CHANNEL_ID,
+            channelId: PRIVATE_CHANNEL_ID,
             unk: [],
             name: PRIVATE_CHANNEL_NAME
         });
